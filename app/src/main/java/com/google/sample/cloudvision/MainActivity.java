@@ -60,7 +60,7 @@ import java.util.Locale;
 
 
 public class MainActivity extends AppCompatActivity {
-    private static final String CLOUD_VISION_API_KEY = "AIzaSyA51FgZx5IQciq3I2cbapGS1zK2DhSLJro";
+    private static final String CLOUD_VISION_API_KEY = "Your Api Key";
     public static final String FILE_NAME = "temp.jpg";
     private static final String ANDROID_CERT_HEADER = "X-Android-Cert";
     private static final String ANDROID_PACKAGE_HEADER = "X-Android-Package";
